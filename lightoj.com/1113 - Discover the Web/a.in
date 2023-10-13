@@ -1,0 +1,25 @@
+3
+VISIT http://uva.onlinejudge.org/
+VISIT http://topcoder.com/
+BACK
+BACK
+BACK
+FORWARD
+VISIT http://acm.sgu.ru/
+BACK
+BACK
+FORWARD
+FORWARD
+FORWARD
+QUIT
+VISIT http://a.com/
+VISIT http://b.com/
+VISIT http://c.com/
+BACK
+BACK
+BACK
+VISIT http://d.com/
+FORWARD
+QUIT
+FORWARD
+QUIT
