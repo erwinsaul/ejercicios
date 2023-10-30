@@ -20,3 +20,6 @@
 # Archivos temporales
 *~
 .DS_Store
+
+# Archivos ejecutables sin extensión
+*[^.]*
