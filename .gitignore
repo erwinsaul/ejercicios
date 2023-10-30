@@ -1,0 +1,22 @@
+# Archivos de código fuente
+*.cabal
+*.yaml
+*.json
+*.txt
+*.md
+
+# Archivos de build
+*.o
+*.hi
+*.so
+*.dll
+*.exe
+
+# Archivos de datos
+*.db
+*.csv
+*.dat
+
+# Archivos temporales
+*~
+.DS_Store
