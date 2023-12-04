@@ -7,7 +7,7 @@ main=do
     input <-getLine
     let n = read input :: Int
     input <-getLine
-    let xs = map read (words input):: [Int]
+    let xs = map read (words input):: [Int]    
     input <-getLine
     let ys = map read (words input):: [Int]
     let r = solve xs ys
