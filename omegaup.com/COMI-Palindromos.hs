@@ -6,5 +6,5 @@ palindrome s ini fin | ini >= fin = True
 main = do  
   linea <- getLine
   if palindrome linea 0 (length linea - 1)
-    then putStrLn "Si"
+    then putStrLn "Si "
     else putStrLn "No"
