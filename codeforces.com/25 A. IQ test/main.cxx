@@ -11,7 +11,8 @@ int main(int argc, char **argv)
 {
 	int n,par=0,impar=0,d;	
 	int p,i;
-	cin>>n;
+	cin>>n;		
+	
 	for(int k=1;k<=n;k++)
 	{
 		cin>>d;
