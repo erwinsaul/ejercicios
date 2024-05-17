@@ -11,7 +11,7 @@
 using namespace std;
 int main(int argc, char **argv)
 {
-	int n, d, s;
+	int n, d, s;	
 	while((scanf("%d",&n))!=EOF)
 	{
 		s=0;
