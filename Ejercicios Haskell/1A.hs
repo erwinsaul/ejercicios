@@ -6,6 +6,12 @@ maximo::Int->Int->Int
 maximo x y | x>y = x
            | otherwise = y
 
+menor3::Int->Int->Int->Int
+menor3 a b c = minimo a (minimo b c)
+
+mayor3::Int->Int->Int->Int
+mayor3 a b c = maximo a (maximo b c)
+
 main::IO()
 main = do
     putStrLn("Introduce el Primer Numero")
