@@ -1,2 +1,4 @@
 # ejercicios
-Ejercicios resueltos de Programacion y Distintos Jueces Virtuales
+Ejercicios resueltos de Programacion 
+
+Ejercicios resueltos de Distintos Jueces Virtuales
