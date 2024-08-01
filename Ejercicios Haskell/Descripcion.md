@@ -17,4 +17,6 @@ versiones de cada una, utilizando recursividad y utilizando la funcion predefini
 4A - Escribe una Funcion que indique si un numero entero es cuadrado perfecto o no. Un número x es un cuadrado perfecto so x=n*n, siendo n un numero entero.
 5A - Define una Funcion que devuelva el n-esimo termino de la serie de Fibonacci.
 6A - Escribe una Funcion que indique si un entero positivo es primo o no.
+7A - Define una función que calcule la raíz cuadrada de un número por el método de Newton hasdta cierto error.
+
 
