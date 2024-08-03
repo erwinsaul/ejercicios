@@ -18,5 +18,6 @@ versiones de cada una, utilizando recursividad y utilizando la funcion predefini
 5A - Define una Funcion que devuelva el n-esimo termino de la serie de Fibonacci.
 6A - Escribe una Funcion que indique si un entero positivo es primo o no.
 7A - Define una función que calcule la raíz cuadrada de un número por el método de Newton hasdta cierto error.
-
+8A - Escribe una función que devuelva las dos soluciones (en una tupla) de una ecuación de segundo grado
+a*x^2+b*x+c = 0. 
 
