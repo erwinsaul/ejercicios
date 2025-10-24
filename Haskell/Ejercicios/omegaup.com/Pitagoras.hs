@@ -1,7 +1,7 @@
 -- Memory Limit Exced
 import Text.Printf (printf)
 main :: IO()
-main = do
+main = do    
     input <- getLine
     input' <- getLine
     let a = read input :: Double
